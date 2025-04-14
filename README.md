@@ -1,7 +1,7 @@
 # Owen Shao (zhutoutoutousan) 👨‍💻
 
 [![Website](https://img.shields.io/badge/Website-owenshao.space-blue)](https://owenshao.space)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Owen_Shao-blue)](https://linkedin.com/in/owen-shao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Owen_Shao-blue)](https://www.linkedin.com/in/tian-shao-113947104/)
 [![Email](https://img.shields.io/badge/Email-tian.shao@namelos.xyz-red)](mailto:tian.shao@namelos.xyz)
 [![IELTS](https://img.shields.io/badge/IELTS-7.5-yellow)](https://www.ielts.org/)
 [![AWS](https://img.shields.io/badge/AWS-Certified-orange)](https://www.aws.amazon.com/certification/)
@@ -54,7 +54,7 @@ Figma | Adobe XD | UI/UX Design | Glassmorphism | Brutalism
 ## 📫 Let's Connect
 
 - Email: [tian.shao@namelos.xyz](mailto:tian.shao@namelos.xyz)
-- LinkedIn: [linkedin.com/in/owen-shao](https://linkedin.com/in/owen-shao)
+- LinkedIn: [linkedin.com/in/owen-shao](https://www.linkedin.com/in/tian-shao-113947104/)
 - Personal Website: [owenshao.space](https://owenshao.space)
 
 > "Turning complex concepts into engaging digital experiences" - My development philosophy
