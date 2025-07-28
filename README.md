@@ -56,5 +56,6 @@ Figma | Adobe XD | UI/UX Design | Glassmorphism | Brutalism
 - Email: [tian.shao@namelos.xyz](mailto:tian.shao@namelos.xyz)
 - LinkedIn: [linkedin.com/in/owen-shao](https://www.linkedin.com/in/tian-shao-113947104/)
 - Personal Website: [owenshao.space](https://owenshao.space)
+- My Bilibili: [zhutoutoutousan](https://space.bilibili.com/618552287)
 
 > "Turning complex concepts into engaging digital experiences" - My development philosophy
